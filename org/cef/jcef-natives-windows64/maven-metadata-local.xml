@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.cef</groupId>
+  <artifactId>jcef-natives-windows64</artifactId>
+  <version>3.12526</version>
+  <versioning>
+    <versions>
+      <version>3.12526</version>
+      <version>3.2526</version>
+    </versions>
+    <lastUpdated>20160318143714</lastUpdated>
+  </versioning>
+</metadata>
